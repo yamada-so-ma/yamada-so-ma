@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 名前
+  *山田総磨
+* 好きなもの
+  *ゲーム(モンスト、原神etc)
+* 勉強したい技術
+  *C言語
